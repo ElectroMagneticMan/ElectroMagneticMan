@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElectroMagneticMan
-- 👀 I’m interested in Mathematics and Physics
+- 👀 I’m interested in Mathematics and Machine Learning.
 - 🌱 I’m currently learning Python
 
 <!---
